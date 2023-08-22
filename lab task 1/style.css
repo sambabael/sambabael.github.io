@@ -1,0 +1,72 @@
+.header{
+    text-align: center;
+    background-color: #f6eec5;
+    color: #35281E;
+    padding: 30px;
+    font-family: Kurale, sans-serif;
+    font-size: 25px;
+}
+section.links{
+    text-align: center;
+    background-color: #f6eec5;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+section.food{
+    text-align: center;
+    padding: 30px;
+    margin: 50px;
+}
+button{
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #f6eec5;
+    transition-duration: 0.4s;
+}
+.button1:hover{
+    background-color: #35281E;
+}
+.button2:hover{
+    background-color: #35281E;
+}
+.button3:hover{
+    background-color: #35281E;
+}
+.button4:hover{
+    background-color: #35281E;
+}
+.main2{
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color: #f6eec5;
+    color: #35281E;
+}
+.aboutMe{
+    text-align: center;
+    background-color: #f6eec5;
+    font-style: italic;
+    color: #35281E;
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: #f6eec5;
+    font-family: Albert Sans, sans-serif;
+}
+.main{
+    background-color: #fff;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+a{
+    color:#35281E;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
